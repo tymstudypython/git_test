@@ -1,1 +1,2 @@
-prtin('hello index')
+print('hello index')
+print('add')
